@@ -2,6 +2,7 @@ public class loops
 {
     public static void main(String[] args)
     {
+         System.out.println("************ For loop ********************");
         for(int n=0;n<=10;n++)
         {
             System.out.println(n);
