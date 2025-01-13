@@ -1,2 +1,2 @@
-# geekstar-java-Assignment
+# java-mini project 
 
